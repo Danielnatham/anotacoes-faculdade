@@ -45,7 +45,7 @@ TODO: Resumir a prova
 
 ## Autômatos Finitos Não Determinístico
 
-
+TODO
 
 
 
